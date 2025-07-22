@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Speakably - Language Learning Platform](https://github.com/naseemsuleiman/speakably-frontend)
 
-- 👨‍💻 All of my projects are available at [https://naseemsuleiman.github.io/My-Portfolio/]([https://naseemsuleiman.github.io/My-Portfolio/](https://github.com/naseemsuleiman?tab=repositories))
+- 👨‍💻 All of my projects are available at [https://github.com/naseemsuleiman?tab=repositories](https://github.com/naseemsuleiman?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,3 +20,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naseemsuleiman&show_icons=true&locale=en&layout=compact" alt="naseemsuleiman" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naseemsuleiman&show_icons=true&locale=en" alt="naseemsuleiman" /></p>
+
