@@ -18,7 +18,7 @@ I enjoy turning ideas into working products — from database-backed backend sys
 - Git / GitHub
 - Deployment: Render, Vercel
 
-## ◈ Featured Projects
+## ◈ Featured Project
 
 ### Feminine Aura Backend
 A Django REST API for the Feminine Aura platform, featuring:
@@ -29,16 +29,6 @@ A Django REST API for the Feminine Aura platform, featuring:
 - deployment-ready configuration
 
 Repository: https://github.com/naseemsuleiman/feminineaurabackend
-
-### AI Email Sender
-AI-powered email sending utility for automating communication workflows.
-
-Repository: https://github.com/naseemsuleiman/AI-EMAIL-SENDER
-
-### Affiliate Backend
-Backend service for affiliate-related functionality and API-driven business logic.
-
-Repository: https://github.com/naseemsuleiman/Affiliatebackend
 
 ## ▣ What I’m Focused On
 
