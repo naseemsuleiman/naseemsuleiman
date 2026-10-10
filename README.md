@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F4A6C0&height=220&section=header&text=Naseem&fontSize=80&fontColor=1a0d14&fontAlignY=40&desc=Backend%20%2F%20Full-Stack%20Developer&descAlignY=62&descSize=16&descColor=2B1B2F&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F4A6C0&height=220&section=header&text=Naseem&fontSize=80&fontColor=1a0d14&fontAlignY=40&desc=Full-Stack%20Developer&descAlignY=62&descSize=16&descColor=2B1B2F&animation=fadeIn" width="100%"/>
   <br/><br/>
   <a href="https://github.com/naseemsuleiman">
     <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=24&duration=3400&pause=900&color=F4A6C0&center=true&vCenter=true&width=680&lines=Secure+APIs+%C2%B7+Scalable+Systems+%C2%B7+Thoughtful+Builds;Ideas+%E2%86%92+Working+Products+%E2%86%92+Shipped;Building+quietly%2C+shipping+consistently" alt="Typing SVG"/>
@@ -13,8 +13,8 @@
 <br/>
 
 <div align="center">
-<em>I build backends the way I’d design a room —<br/>
-quiet, sturdy, and effortless to live in.</em>
+<em>I build backends the way I’d design a room <br/>
+quiet,  and effortless to live in.</em>
 </div>
 
 <br/>
@@ -62,9 +62,9 @@ quiet, sturdy, and effortless to live in.</em>
 <img src="https://img.shields.io/badge/%E2%9D%96-FEATURED-1a0d14?style=flat-square&labelColor=F4A6C0&color=1a0d14" />
 <br/><br/>
 
-<h3 align="center"><font color="#F4A6C0">Feminine Aura</font> &nbsp;<sub><font color="#FBD0DE">— Backend</font></sub></h3>
+<h3 align="center"><font color="#F4A6C0">Feminine Aura</font> &nbsp;<sub><font color="#FBD0DE"></font></sub></h3>
 
-<sub><i>A Django REST API powering the Feminine Aura platform —<br/>engineered for clarity, security, and scale.</i></sub>
+<sub><i>A Django REST API powering the Feminine Aura platform <br/>engineered for clarity, security, and scale.</i></sub>
 
 <br/><br/>
 
@@ -195,17 +195,15 @@ quiet, sturdy, and effortless to live in.</em>
 <div align="center">
 
 <a href="https://github.com/naseemsuleiman">
-<img src="https://img.shields.io/badge/GitHub-naseemsuleiman-1a0d14?style=for-the-badge&logo=github&logoColor=F4A6C0" />
+<img src="https://img.shields.io/badge/GitHub--1a0d14?style=for-the-badge&logo=github&logoColor=F4A6C0" />
 </a>
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Add_Link-1a0d14?style=for-the-badge&logo=googlechrome&logoColor=FBD0DE" />
+<a href="naseemsuleiman.github.io/My-Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio--1a0d14?style=for-the-badge&logo=googlechrome&logoColor=FBD0DE" />
 </a>
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-Add_Link-1a0d14?style=for-the-badge&logo=linkedin&logoColor=F4A6C0" />
+<a href="www.linkedin.com/in/naseemsuleiman">
+<img src="https://img.shields.io/badge/LinkedIn--1a0d14?style=for-the-badge&logo=linkedin&logoColor=F4A6C0" />
 </a>
-<a href="#">
-<img src="https://img.shields.io/badge/Email-Add_Address-1a0d14?style=for-the-badge&logo=gmail&logoColor=FBD0DE" />
-</a>
+
 
 </div>
 
